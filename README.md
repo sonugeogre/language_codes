@@ -1,2 +1,2 @@
 # language_codes
-Language codes array of Google Translations
+Language codes javacscript array of Google Translations
